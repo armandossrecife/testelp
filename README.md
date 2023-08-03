@@ -20,4 +20,4 @@ Em filtros implemente as classes de Filtros
 
 - main.py
   
-Em entidades coloque as classes de Download e Imagem
+Em main coloque a classe Principal
