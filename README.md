@@ -5,14 +5,19 @@ Repositório de teste de lab de programação
 
 - Criar classe de Download
 - Criar classe de Imagem
-- Criar classe de Filtro
+- Criar as classes de Filtros
 - Criar classe Principal
 
 ## Organizar em módulos
 
 - entidades.py
+  
+Em entidades coloque as classes de Download e Imagem
+
+- filtros.py
+  
+Em filtros implemente as classes de Filtros
+
 - main.py
-
-### Em entidades coloque as classes de Download e Imagem
-
-### Em main coloque a classe Principal
+  
+Em entidades coloque as classes de Download e Imagem
